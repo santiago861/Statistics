@@ -1,0 +1,756 @@
+TipodeInmueble,Operacion,Provincia,Superficie,Precio_Venta,Fecha_Venta,Vendedor,Satisfaccion
+Casa,Alquiler,Girona,168.79,1754463,21/11/04,Carmen,Muy buena
+Casa,Alquiler,Tarragona,148.39,1725722,08/10/04,Luisa,Muy buena
+Casa,Alquiler,Girona,143.55,1427270,21/04/04,Luisa,Mala
+Casa,Alquiler,Barcelona,182.58,1743532,16/06/04,Joaquên,Regular 
+Casa,Alquiler,Tarragona,142.47,978358,07/07/04,Luisa,Mala
+Casa,Alquiler,Girona,186.93,2044535,12/04/04,Marêa,Regular 
+Casa,Venta,Barcelona,205.21,1962513,01/11/04,Marêa,Mala
+Casa,Venta,Girona,169.5,1705126,16/12/04,Marêa,Muy buena
+Casa,Venta,Tarragona,176.78,2159479,12/09/04,Carmen,Muy buena
+Casa,Alquiler,Tarragona,185.3,1917042,12/07/04,Marêa,Buena
+Casa,Venta,Girona,163.69,1598207,01/11/04,Carmen,Buena
+Casa,Venta,Lleida,178.47,1636164,01/02/05,Carmen,Buena
+Casa,Alquiler,Girona,192.05,1865998,19/07/04,Marêa,Muy buena
+Casa,Alquiler,Barcelona,147.14,1699230,05/02/05,Pedro,Muy buena
+Casa,Venta,Tarragona,164.82,1924715,04/01/05,Luisa,Muy buena
+Casa,Venta,Barcelona,178.21,1420300,19/01/05,Pedro,Regular 
+Casa,Alquiler,Lleida,164.48,1733805,19/12/04,Jes“s,Buena
+Casa,Venta,Girona,174.77,1895243,01/07/04,Pedro,Buena
+Casa,Alquiler,Lleida,192.76,2081644,10/10/04,Luisa,Buena
+Casa,Venta,Tarragona,188.05,1819158,23/07/04,Marêa,Mala
+Casa,Alquiler,Girona,157.67,1811767,23/10/04,Jes“s,Regular 
+Casa,Venta,Lleida,181.9,1879405,08/02/05,Carmen,Muy buena
+Casa,Venta,Lleida,180.85,1920160,27/09/04,Pedro,Regular 
+Casa,Alquiler,Barcelona,153.51,1747005,25/10/04,Carmen,Regular 
+Casa,Alquiler,Barcelona,156.82,1713659,27/08/04,Pedro,Mala
+Casa,Venta,Lleida,180.77,1972146,09/09/04,Luisa,Regular 
+Casa,Alquiler,Barcelona,175.33,1627159,01/02/05,Jes“s,Regular 
+Casa,Venta,Barcelona,162.56,1215108,07/07/04,Joaquên,Mala
+Casa,Alquiler,Lleida,175.56,1539956,07/04/05,Joaquên,Mala
+Casa,Alquiler,Barcelona,165.53,1764865,14/09/04,Luisa,Regular 
+Casa,Venta,Girona,149.16,1849499,27/09/04,Carmen,Regular 
+Casa,Venta,Girona,163.03,1338588,28/12/04,Jes“s,Regular 
+Casa,Alquiler,Lleida,185.73,1543264,19/01/05,Luisa,Mala
+Casa,Alquiler,Tarragona,158.91,1569942,11/09/04,Pedro,Mala
+Casa,Alquiler,Tarragona,171.28,2107069,12/02/05,Carmen,Regular 
+Casa,Alquiler,Barcelona,180.71,1965943,16/02/05,Pedro,Mala
+Casa,Alquiler,Barcelona,183.45,1737137,14/02/05,Joaquên,Muy buena
+Casa,Venta,Tarragona,168.62,1525344,02/11/04,Pedro,Mala
+Casa,Venta,Barcelona,171.4,1500509,19/09/04,Jes“s,Buena
+Casa,Venta,Tarragona,168.05,1757534,10/10/04,Luisa,Mala
+Casa,Venta,Lleida,159.92,1691343,02/12/04,Luisa,Regular 
+Casa,Venta,Girona,192.98,1713902,18/10/04,Carmen,Muy buena
+Casa,Alquiler,Barcelona,206.96,2046389,27/12/04,Luisa,Buena
+Casa,Venta,Girona,181.89,1733639,21/10/04,Joaquên,Regular 
+Casa,Alquiler,Girona,151.42,1546163,23/05/05,Carmen,Regular 
+Casa,Alquiler,Lleida,182.48,1764911,22/03/05,Carmen,Buena
+Casa,Venta,Girona,213.91,2518030,11/12/04,Marêa,Buena
+Casa,Alquiler,Tarragona,165.59,1443931,18/03/05,Jes“s,Muy buena
+Casa,Venta,Girona,164.73,1292368,26/09/04,Marêa,Mala
+Casa,Venta,Girona,157.52,1585551,01/06/05,Pedro,Mala
+Casa,Alquiler,Girona,162.29,1822896,15/06/05,Luisa,Muy buena
+Casa,Alquiler,Barcelona,182.86,1535628,13/12/04,Pedro,Regular 
+Casa,Venta,Lleida,166.02,1336821,14/01/05,Pedro,Regular 
+Casa,Venta,Girona,163.49,1353235,03/12/04,Luisa,Muy buena
+Casa,Venta,Lleida,191.31,1667734,21/01/05,Carmen,Buena
+Casa,Venta,Tarragona,186.02,1879394,30/01/05,Luisa,Buena
+Casa,Venta,Barcelona,178.48,1695116,22/05/05,Joaquên,Muy buena
+Casa,Venta,Lleida,163.35,1597106,02/02/05,Pedro,Mala
+Casa,Alquiler,Barcelona,191.16,2008561,21/01/05,Jes“s,Buena
+Casa,Venta,Tarragona,164.65,1808784,28/12/04,Luisa,Buena
+Casa,Venta,Girona,162.9,1342300,24/10/04,Luisa,Regular 
+Casa,Venta,Lleida,163.8,1217143,03/03/05,Carmen,Buena
+Casa,Alquiler,Lleida,191.18,1468055,04/02/05,Joaquên,Mala
+Casa,Venta,Girona,180.3,1685275,30/06/05,Joaquên,Buena
+Casa,Alquiler,Girona,169.03,-727694,20/06/05,Jes“s,Regular 
+Casa,Alquiler,Girona,162.58,1754287,13/12/04,Jes“s,Muy buena
+Casa,Alquiler,Lleida,164.14,1664308,27/04/05,Luisa,Buena
+Casa,Alquiler,Lleida,169.28,1720721,30/04/05,Jes“s,Mala
+Casa,Venta,Barcelona,156.99,1559746,20/02/05,Pedro,Buena
+Casa,Venta,Tarragona,177.19,1970053,16/11/04,Jes“s,Mala
+Casa,Alquiler,Girona,195.05,1626099,07/02/05,Luisa,Mala
+Casa,Venta,Lleida,171.81,1515039,15/03/05,Marêa,Regular 
+Casa,Venta,Lleida,156.27,1506442,02/05/05,Marêa,Mala
+Casa,Alquiler,Girona,176.49,1566459,23/06/05,Luisa,Mala
+Casa,Alquiler,Barcelona,175.37,1067520,23/05/05,Jes“s,Regular 
+Casa,Venta,Barcelona,155.16,1353060,21/06/05,Luisa,Mala
+Casa,Alquiler,Girona,171.9,1920610,06/05/05,Joaquên,Mala
+Casa,Alquiler,Barcelona,158.26,1797208,28/01/05,Pedro,Mala
+Casa,Alquiler,Tarragona,153.63,2140644,24/04/05,Jes“s,Muy buena
+Casa,Venta,Tarragona,185.54,1558961,27/01/05,Marêa,Buena
+Casa,Venta,Lleida,149.12,1529797,28/02/05,Luisa,Muy buena
+Casa,Alquiler,Barcelona,166.23,1617996,22/01/05,Marêa,Buena
+Casa,Venta,Girona,171.17,1855882,27/12/04,Carmen,Mala
+Casa,Alquiler,Girona,201.68,2485378,22/03/05,Joaquên,Mala
+Casa,Venta,Girona,161.81,1620969,27/12/04,Joaquên,Buena
+Casa,Venta,Tarragona,161.99,1369456,25/07/05,Marêa,Muy buena
+Casa,Alquiler,Tarragona,157.43,1544568,13/07/05,Jes“s,Buena
+Casa,Venta,Tarragona,149.19,1512911,14/12/04,Luisa,Mala
+Casa,Venta,Barcelona,152.26,1661993,08/08/05,Luisa,Buena
+Casa,Alquiler,Lleida,148.46,1171276,14/05/05,Pedro,Regular 
+Casa,Venta,Tarragona,156.87,1850862,09/07/05,Luisa,Mala
+Casa,Alquiler,Girona,185.42,1851955,16/02/05,Marêa,Muy buena
+Casa,Alquiler,Lleida,169.25,1550526,15/09/05,Pedro,Buena
+Casa,Venta,Girona,167.5,1615846,10/04/05,Joaquên,Muy buena
+Casa,Venta,Barcelona,171.44,2134253,19/06/05,Jes“s,Buena
+Casa,Alquiler,Barcelona,161.38,2319796,14/07/05,Joaquên,Mala
+Casa,Venta,Barcelona,170.46,1501422,25/08/05,Pedro,Buena
+Casa,Alquiler,Barcelona,141.01,1597453,05/10/05,Luisa,Mala
+Casa,Venta,Barcelona,173.84,1936913,07/05/05,Marêa,Muy buena
+Casa,Venta,Girona,185.3,1937807,25/09/05,Carmen,Muy buena
+Casa,Alquiler,Tarragona,179.71,1672760,19/05/05,Jes“s,Mala
+Casa,Alquiler,Lleida,146.57,1575263,08/06/05,Carmen,Mala
+Casa,Venta,Tarragona,189.81,1594801,01/10/05,Pedro,Mala
+Casa,Venta,Girona,140.73,1490773,04/04/05,Pedro,Buena
+Casa,Alquiler,Tarragona,207.11,1985582,19/05/05,Carmen,Muy buena
+Casa,Venta,Barcelona,177.54,1599145,21/03/05,Jes“s,Buena
+Casa,Venta,Barcelona,172.3,1581234,12/03/05,Carmen,Muy buena
+Casa,Venta,Tarragona,159.38,1428282,18/07/05,Carmen,Buena
+Casa,Alquiler,Girona,162.48,1895515,16/06/05,Luisa,Regular 
+Casa,Alquiler,Girona,166.96,1186341,27/04/05,Luisa,Muy buena
+Casa,Alquiler,Tarragona,179.74,1838426,13/06/05,Joaquên,Buena
+Casa,Alquiler,Lleida,169.12,1407145,10/06/05,Carmen,Buena
+Casa,Alquiler,Lleida,175.68,1942849,23/02/05,Jes“s,Muy buena
+Casa,Venta,Girona,147.91,1650143,29/08/05,Pedro,Regular 
+Casa,Alquiler,Tarragona,162.8,1768403,04/05/05,Marêa,Buena
+Casa,Venta,Tarragona,172.96,1575633,21/09/05,Pedro,Muy buena
+Casa,Venta,Barcelona,176.8,2099094,14/03/05,Jes“s,Buena
+Casa,Alquiler,Barcelona,173.68,1685277,02/04/05,Pedro,Mala
+Casa,Alquiler,Lleida,150.74,1451494,11/10/05,Marêa,Mala
+Casa,Alquiler,Girona,172.55,1463962,10/10/05,Jes“s,Muy buena
+Casa,Alquiler,Girona,165.72,1397470,19/10/05,Carmen,Mala
+Casa,Alquiler,Tarragona,162.14,1917950,30/07/05,Luisa,Muy buena
+Casa,Alquiler,Lleida,183.18,1894117,20/08/05,Jes“s,Regular 
+Casa,Venta,Tarragona,192.99,1122942,09/10/05,Marêa,Muy buena
+Casa,Alquiler,Barcelona,188.02,2186215,23/05/05,Joaquên,Muy buena
+Casa,Alquiler,Barcelona,175.88,1796191,29/08/05,Carmen,Muy buena
+Casa,Alquiler,Tarragona,158.48,1568776,12/07/05,Jes“s,Mala
+Casa,Venta,Lleida,161.95,1801052,02/05/05,Carmen,Regular 
+Casa,Venta,Barcelona,145.68,1098695,05/11/05,Marêa,Muy buena
+Casa,Alquiler,Girona,165.02,1450794,06/11/05,Joaquên,Buena
+Casa,Venta,Lleida,172.57,1847660,25/11/05,Joaquên,Buena
+Casa,Alquiler,Lleida,161.32,1335237,07/06/05,Luisa,Mala
+Casa,Alquiler,Lleida,167.78,1742969,28/10/05,Pedro,Mala
+Casa,Alquiler,Barcelona,188.93,1531100,25/09/05,Luisa,Muy buena
+Casa,Venta,Tarragona,179.01,1591157,16/09/05,Carmen,Regular 
+Casa,Venta,Girona,154.56,1344696,12/12/05,Marêa,Regular 
+Casa,Venta,Barcelona,153,1214348,30/12/05,Marêa,Regular 
+Casa,Venta,Tarragona,194.49,1619275,02/06/05,Joaquên,Muy buena
+Casa,Alquiler,Girona,157.14,1287266,20/09/05,Luisa,Muy buena
+Casa,Alquiler,Tarragona,194.9,1891889,31/01/06,Luisa,Buena
+Casa,Alquiler,Barcelona,184.8,1740905,04/06/05,Carmen,Muy buena
+Casa,Alquiler,Tarragona,161.42,1718174,22/10/05,Carmen,Mala
+Casa,Venta,Barcelona,167.24,2100110,23/09/05,Carmen,Buena
+Casa,Venta,Tarragona,176.53,1603297,30/10/05,Marêa,Buena
+Casa,Alquiler,Tarragona,150.63,1546639,17/02/06,Joaquên,Regular 
+Casa,Venta,Barcelona,163.95,1245164,22/12/05,Joaquên,Mala
+Casa,Venta,Barcelona,170.41,1767705,07/11/05,Jes“s,Mala
+Casa,Alquiler,Barcelona,161.23,1168754,16/01/06,Marêa,Mala
+Casa,Alquiler,Girona,179.02,2102628,13/02/06,Luisa,Muy buena
+Casa,Alquiler,Girona,192.28,1810490,03/01/06,Jes“s,Buena
+Casa,Alquiler,Barcelona,181.22,1403809,03/08/05,Carmen,Buena
+Casa,Alquiler,Tarragona,150.6,1560181,05/12/05,Pedro,Regular 
+Casa,Venta,Barcelona,166.68,1491751,28/09/05,Carmen,Mala
+Casa,Venta,Tarragona,173.04,1569944,04/09/05,Marêa,Buena
+Casa,Alquiler,Girona,162,1820525,08/06/05,Marêa,Mala
+Casa,Venta,Barcelona,163.2,1549360,25/01/06,Pedro,Regular 
+Casa,Alquiler,Lleida,177.6,1974827,27/02/06,Joaquên,Muy buena
+Casa,Venta,Girona,180.8,2236747,28/07/05,Luisa,Muy buena
+Casa,Venta,Lleida,190.45,1925926,05/10/05,Marêa,Muy buena
+Casa,Venta,Girona,158.02,1395163,16/10/05,Carmen,Muy buena
+Casa,Alquiler,Tarragona,149.69,1171062,22/08/05,Jes“s,Muy buena
+Casa,Venta,Tarragona,174.31,1716803,26/03/06,Jes“s,Buena
+Casa,Alquiler,Barcelona,177.07,2000420,11/01/06,Joaquên,Mala
+Casa,Venta,Tarragona,179.7,1895431,17/07/05,Jes“s,Regular 
+Casa,Alquiler,Tarragona,176.97,2018333,06/01/06,Marêa,Mala
+Casa,Alquiler,Tarragona,161.49,1777768,07/11/05,Luisa,Mala
+Casa,Alquiler,Lleida,165.93,1609202,21/07/05,Luisa,Buena
+Casa,Venta,Girona,158.83,2270122,17/11/05,Luisa,Muy buena
+Casa,Venta,Barcelona,192.12,1718757,26/08/05,Marêa,Mala
+Casa,Alquiler,Lleida,175.97,2022183,14/02/06,Carmen,Mala
+Casa,Alquiler,Girona,153.82,1720553,14/07/05,Pedro,Muy buena
+Casa,Alquiler,Tarragona,180.57,1332124,21/12/05,Marêa,Muy buena
+Casa,Alquiler,Lleida,130.48,1331964,07/04/06,Luisa,Muy buena
+Casa,Alquiler,Lleida,168.81,1136021,12/02/06,Carmen,Muy buena
+Casa,Venta,Lleida,168.65,1746160,15/01/06,Joaquên,Buena
+Casa,Venta,Barcelona,186.18,1915354,22/01/06,Joaquên,Mala
+Casa,Venta,Girona,165.43,1448674,01/01/06,Joaquên,Muy buena
+Casa,Venta,Girona,175.09,2082682,14/11/05,Marêa,Regular 
+Casa,Alquiler,Barcelona,152.87,1634060,25/02/06,Marêa,Muy buena
+Casa,Venta,Girona,162.41,1621277,11/09/05,Jes“s,Mala
+Casa,Venta,Lleida,143.09,1652795,27/12/05,Marêa,Regular 
+Casa,Alquiler,Barcelona,181.56,938652,03/01/06,Luisa,Regular 
+Casa,Venta,Girona,142.03,1413120,02/11/05,Joaquên,Buena
+Casa,Venta,Barcelona,169.69,2178629,04/03/06,Jes“s,Mala
+Casa,Venta,Barcelona,204.99,2459293,13/04/06,Pedro,Mala
+Casa,Alquiler,Barcelona,181.29,2018755,20/05/06,Jes“s,Regular 
+Casa,Alquiler,Tarragona,163.19,1289691,15/09/05,Jes“s,Regular 
+Casa,Alquiler,Girona,159.36,1292880,30/11/05,Joaquên,Buena
+Casa,Alquiler,Tarragona,168.96,1849430,15/02/06,Luisa,Muy buena
+Casa,Venta,Tarragona,162.97,1740402,31/01/06,Jes“s,Regular 
+Casa,Venta,Girona,158.18,1181917,26/11/05,Luisa,Mala
+Casa,Venta,Lleida,169.34,1909024,15/09/05,Marêa,Buena
+Casa,Alquiler,Tarragona,170.63,1411498,27/11/05,Joaquên,Muy buena
+Casa,Alquiler,Tarragona,162.57,1485099,20/02/06,Carmen,Regular 
+Casa,Alquiler,Tarragona,171.09,1529233,18/04/06,Jes“s,Regular 
+Casa,Alquiler,Tarragona,178.33,1517095,08/04/06,Joaquên,Muy buena
+Casa,Venta,Lleida,159.8,1456010,16/05/06,Carmen,Regular 
+Casa,Venta,Girona,150.4,1066090,13/04/06,Carmen,Muy buena
+Casa,Alquiler,Girona,171.77,1913086,23/10/05,Marêa,Regular 
+Casa,Venta,Girona,173.36,1450942,23/02/06,Marêa,Muy buena
+Casa,Alquiler,Girona,175.67,2094244,25/05/06,Marêa,Regular 
+Casa,Alquiler,Barcelona,162.52,1632800,08/11/05,Jes“s,Buena
+Casa,Alquiler,Barcelona,154.25,1303238,16/04/06,Jes“s,Mala
+Casa,Alquiler,Girona,176.06,1994791,25/10/05,Luisa,Buena
+Casa,Alquiler,Barcelona,148.51,1534714,02/05/06,Pedro,Regular 
+Casa,Venta,Barcelona,166.77,1063999,11/01/06,Carmen,Muy buena
+Casa,Venta,Girona,181.68,2190978,04/07/06,Pedro,Buena
+Casa,Venta,Lleida,170.63,2190230,01/11/05,Carmen,Regular 
+Casa,Alquiler,Tarragona,164.02,1376645,25/10/05,Luisa,Regular 
+Casa,Alquiler,Barcelona,175.12,1422814,29/12/05,Carmen,Mala
+Casa,Alquiler,Girona,163.39,1845954,06/05/06,Marêa,Mala
+Casa,Venta,Girona,166.6,1572535,27/11/05,Marêa,Mala
+Casa,Alquiler,Girona,173.88,2299357,04/06/06,Pedro,Buena
+Casa,Venta,Tarragona,166.3,1347365,27/02/06,Pedro,Buena
+Casa,Alquiler,Tarragona,163.89,1795520,27/11/05,Carmen,Muy buena
+Casa,Alquiler,Girona,173.7,1606186,01/03/06,Carmen,Mala
+Casa,Alquiler,Barcelona,183.96,1715668,19/02/06,Luisa,Muy buena
+Casa,Venta,Girona,139.77,1154935,24/01/06,Marêa,Buena
+Casa,Venta,Girona,178.95,1828248,02/07/06,Marêa,Regular 
+Casa,Alquiler,Girona,167.68,1393537,04/08/06,Jes“s,Muy buena
+Casa,Venta,Tarragona,157.04,1409390,10/01/06,Jes“s,Mala
+Casa,Alquiler,Girona,175.76,1767616,28/02/06,Jes“s,Mala
+Casa,Alquiler,Tarragona,165.51,2163316,14/05/06,Jes“s,Buena
+Casa,Alquiler,Tarragona,173.34,2068602,30/03/06,Jes“s,Buena
+Casa,Venta,Girona,154.09,1438478,08/01/06,Joaquên,Mala
+Casa,Venta,Tarragona,161.97,1652707,04/04/06,Joaquên,Buena
+Casa,Alquiler,Tarragona,185.89,1928745,10/04/06,Pedro,Muy buena
+Casa,Venta,Barcelona,157.75,1232029,06/06/06,Luisa,Regular 
+Casa,Venta,Tarragona,164.16,1144230,18/05/06,Carmen,Mala
+Casa,Venta,Girona,200.66,2672872,20/09/06,Luisa,Mala
+Casa,Venta,Barcelona,169.36,1620819,20/05/06,Jes“s,Muy buena
+Casa,Venta,Lleida,173.7,1797586,30/12/05,Pedro,Buena
+Casa,Venta,Barcelona,167.63,1599600,09/06/06,Marêa,Muy buena
+Casa,Venta,Barcelona,177.56,1735937,27/07/06,Joaquên,Regular 
+Casa,Alquiler,Barcelona,152.67,1576411,26/07/06,Luisa,Buena
+Casa,Venta,Lleida,155.58,1808407,28/09/06,Pedro,Buena
+Casa,Alquiler,Barcelona,179.17,1676744,28/02/06,Joaquên,Mala
+Casa,Alquiler,Girona,163.98,1464569,31/05/06,Jes“s,Regular 
+Casa,Venta,Lleida,196.99,1891561,10/09/06,Luisa,Muy buena
+Casa,Venta,Lleida,153.58,1403266,20/06/06,Pedro,Mala
+Casa,Alquiler,Girona,180.16,1522501,21/06/06,Carmen,Muy buena
+Casa,Venta,Girona,163.04,1715717,09/02/06,Marêa,Muy buena
+Casa,Alquiler,Girona,167.81,1595040,09/04/06,Joaquên,Muy buena
+Casa,Alquiler,Girona,187.16,2025119,28/06/06,Jes“s,Regular 
+Casa,Venta,Girona,184.07,1644272,10/04/06,Pedro,Muy buena
+Casa,Venta,Girona,185.09,1352511,08/02/06,Jes“s,Mala
+Casa,Venta,Girona,184.21,2244661,25/04/06,Pedro,Regular 
+Casa,Alquiler,Girona,161.94,1641254,18/10/06,Pedro,Muy buena
+Casa,Venta,Lleida,170.89,2148313,05/04/06,Marêa,Regular 
+Casa,Alquiler,Lleida,179.87,1553324,16/08/06,Luisa,Regular 
+Casa,Alquiler,Barcelona,169.35,1975122,21/10/06,Joaquên,Muy buena
+Casa,Venta,Tarragona,158.08,1755815,02/03/06,Jes“s,Muy buena
+Casa,Alquiler,Tarragona,159.28,1642719,23/09/06,Jes“s,Mala
+Casa,Venta,Lleida,186.67,2202288,06/10/06,Marêa,Mala
+Casa,Alquiler,Barcelona,163.29,1518628,29/07/06,Pedro,Regular 
+Casa,Alquiler,Lleida,144.13,1620917,09/11/06,Marêa,Mala
+Casa,Venta,Barcelona,177.09,1416932,30/03/06,Marêa,Buena
+Casa,Venta,Tarragona,177.34,1640790,04/10/06,Marêa,Muy buena
+Casa,Venta,Lleida,172.3,1252049,03/07/06,Pedro,Buena
+Casa,Venta,Barcelona,181.51,1566319,12/06/06,Marêa,Buena
+Casa,Alquiler,Tarragona,173.23,2076200,26/11/06,Marêa,Muy buena
+Casa,Venta,Tarragona,165,1547796,06/07/06,Pedro,Muy buena
+Casa,Venta,Barcelona,154.59,1473064,13/10/06,Jes“s,Buena
+Casa,Venta,Girona,175.79,1572587,23/04/06,Luisa,Regular 
+Casa,Venta,Tarragona,164.74,1505480,02/04/06,Jes“s,Mala
+Casa,Venta,Barcelona,186.74,1459310,28/08/06,Marêa,Mala
+Casa,Alquiler,Barcelona,153.54,2242590,30/03/06,Jes“s,Muy buena
+Casa,Alquiler,Lleida,164.2,1779760,12/12/06,Pedro,Muy buena
+Casa,Alquiler,Girona,144.88,1427678,07/12/06,Jes“s,Muy buena
+Casa,Alquiler,Girona,160.35,2007580,04/04/06,Joaquên,Mala
+Casa,Alquiler,Barcelona,159.94,1623104,12/07/06,Luisa,Muy buena
+Casa,Alquiler,Girona,159.81,1433624,11/09/06,Marêa,Mala
+Casa,Alquiler,Girona,160.43,1461355,16/10/06,Luisa,Muy buena
+Casa,Alquiler,Girona,195.17,2026350,07/05/06,Marêa,Mala
+Casa,Venta,Barcelona,193.66,1771493,04/09/06,Jes“s,Mala
+Casa,Alquiler,Barcelona,170.39,1306784,08/06/06,Marêa,Muy buena
+Casa,Venta,Tarragona,170.61,1607207,26/09/06,Pedro,Buena
+Casa,Venta,Barcelona,191.44,2197984,03/07/06,Jes“s,Buena
+Casa,Venta,Girona,160.8,1398743,16/12/06,Marêa,Muy buena
+Casa,Alquiler,Girona,169.9,1693258,03/10/06,Pedro,Buena
+Casa,Venta,Lleida,173.98,1766087,12/07/06,Joaquên,Regular 
+Casa,Alquiler,Tarragona,175.57,2274110,29/04/06,Joaquên,Muy buena
+Casa,Venta,Lleida,179.74,1551170,14/12/06,Marêa,Regular 
+Casa,Alquiler,Tarragona,165.63,1827103,08/07/06,Pedro,Buena
+Casa,Venta,Barcelona,165.75,1867220,24/09/06,Carmen,Mala
+Casa,Alquiler,Barcelona,186.55,2167240,12/10/06,Luisa,Muy buena
+Casa,Venta,Barcelona,174.52,1392635,22/11/06,Joaquên,Muy buena
+Casa,Venta,Barcelona,165.77,1771655,30/08/06,Jes“s,Muy buena
+Casa,Venta,Tarragona,179.95,1451989,05/02/07,Marêa,Mala
+Casa,Venta,Tarragona,187.79,2056489,07/11/06,Joaquên,Buena
+Casa,Venta,Barcelona,177.99,1579448,18/01/07,Joaquên,Mala
+Casa,Alquiler,Lleida,170.15,1829530,08/10/06,Luisa,Regular 
+Casa,Alquiler,Tarragona,198.38,2029702,08/12/06,Carmen,Mala
+Casa,Venta,Lleida,169.24,1661436,20/11/06,Luisa,Regular 
+Casa,Venta,Lleida,155.23,1847918,12/07/06,Joaquên,Muy buena
+Casa,Venta,Girona,155.93,1828808,23/01/07,Marêa,Mala
+Casa,Alquiler,Tarragona,165.92,1653021,17/07/06,Jes“s,Mala
+Casa,Venta,Girona,156.07,1028995,13/07/06,Pedro,Buena
+Casa,Venta,Barcelona,166.38,1900232,03/07/06,Carmen,Regular 
+Casa,Alquiler,Girona,181.99,1677415,02/03/07,Carmen,Muy buena
+Casa,Alquiler,Barcelona,170.64,1652921,26/07/06,Luisa,Buena
+Casa,Venta,Girona,194.24,1485934,04/07/06,Pedro,Regular 
+Casa,Alquiler,Lleida,171.51,2021545,01/03/07,Luisa,Muy buena
+Casa,Venta,Girona,166.66,1668407,26/09/06,Jes“s,Mala
+Casa,Alquiler,Girona,168.05,1937055,22/09/06,Joaquên,Mala
+Casa,Venta,Barcelona,147.61,1337828,19/01/07,Carmen,Buena
+Casa,Alquiler,Girona,168.74,2350585,26/07/06,Pedro,Muy buena
+Casa,Alquiler,Tarragona,176.4,1641545,21/10/06,Carmen,Muy buena
+Casa,Alquiler,Barcelona,188.3,2159934,09/02/07,Joaquên,Muy buena
+Casa,Venta,Tarragona,159.86,1398887,17/02/07,Jes“s,Regular 
+Casa,Alquiler,Tarragona,150.97,1630687,25/11/06,Jes“s,Buena
+Casa,Alquiler,Lleida,154.15,1859934,22/09/06,Joaquên,Muy buena
+Casa,Alquiler,Tarragona,169.61,1369314,22/10/06,Jes“s,Muy buena
+Casa,Alquiler,Barcelona,178.13,1911546,31/03/07,Carmen,Mala
+Casa,Alquiler,Tarragona,182.69,1600970,29/08/06,Jes“s,Regular 
+Casa,Alquiler,Barcelona,162.45,1436343,28/03/07,Joaquên,Regular 
+Casa,Venta,Girona,184.84,2026446,27/12/06,Luisa,Regular 
+Casa,Venta,Tarragona,162.96,1398817,19/09/06,Pedro,Mala
+Casa,Venta,Girona,169.27,1586220,13/04/07,Marêa,Regular 
+Casa,Venta,Barcelona,157.59,1657060,31/10/06,Luisa,Muy buena
+Casa,Venta,Lleida,186.33,1732379,09/11/06,Jes“s,Muy buena
+Casa,Alquiler,Tarragona,172.22,1489285,22/10/06,Luisa,Buena
+Casa,Venta,Barcelona,169.77,1624966,26/10/06,Marêa,Mala
+Casa,Venta,Girona,208.18,1841061,03/02/07,Pedro,Buena
+Casa,Venta,Girona,191.38,1836281,28/01/07,Luisa,Muy buena
+Casa,Venta,Lleida,162.38,1525407,01/05/07,Luisa,Regular 
+Casa,Alquiler,Barcelona,181.47,1515070,19/01/07,Luisa,Mala
+Casa,Venta,Girona,174.87,1518697,04/04/07,Pedro,Muy buena
+Casa,Alquiler,Tarragona,166.29,1420058,29/01/07,Pedro,Muy buena
+Casa,Alquiler,Tarragona,159.58,1092397,10/01/07,Jes“s,Mala
+Casa,Alquiler,Lleida,162.4,1208108,26/11/06,Marêa,Buena
+Casa,Venta,Tarragona,173.88,2218872,01/11/06,Marêa,Mala
+Casa,Venta,Barcelona,142.72,1390542,11/09/06,Joaquên,Regular 
+Casa,Alquiler,Tarragona,198.29,1624737,13/01/07,Carmen,Buena
+Casa,Venta,Lleida,165.56,2288615,02/04/07,Marêa,Buena
+Casa,Alquiler,Barcelona,158.29,1642637,26/01/07,Luisa,Mala
+Casa,Venta,Barcelona,181.97,1797490,25/04/07,Carmen,Regular 
+Casa,Venta,Girona,169.41,1292567,13/11/06,Joaquên,Regular 
+Casa,Venta,Girona,182.89,1815558,21/12/06,Jes“s,Muy buena
+Casa,Alquiler,Girona,158.12,1788826,24/12/06,Jes“s,Muy buena
+Casa,Venta,Barcelona,172.43,2557149,12/10/06,Jes“s,Buena
+Casa,Alquiler,Barcelona,157.75,1564814,10/03/07,Jes“s,Mala
+Casa,Alquiler,Tarragona,166.89,1771878,10/11/06,Carmen,Regular 
+Casa,Alquiler,Tarragona,158.09,1556339,18/02/07,Marêa,Buena
+Casa,Venta,Lleida,170.25,2097213,14/12/06,Joaquên,Muy buena
+Casa,Venta,Barcelona,157,1663533,24/12/06,Luisa,Buena
+Casa,Alquiler,Lleida,152.07,1307185,04/04/07,Joaquên,Regular 
+Casa,Venta,Girona,186.43,2019636,13/01/07,Marêa,Regular 
+Casa,Venta,Barcelona,156.61,1085067,19/12/06,Jes“s,Muy buena
+Casa,Venta,Lleida,177.28,1560739,01/05/07,Joaquên,Mala
+Casa,Alquiler,Barcelona,182.38,1539113,04/03/07,Jes“s,Regular 
+Casa,Alquiler,Lleida,150.21,1601430,05/02/07,Joaquên,Muy buena
+Casa,Venta,Lleida,168.42,987201,01/12/06,Joaquên,Regular 
+Casa,Venta,Girona,176.93,1495723,24/01/07,Pedro,Buena
+Casa,Venta,Barcelona,162.3,1467260,13/03/07,Jes“s,Regular 
+Casa,Venta,Tarragona,165.88,1855450,16/12/06,Carmen,Regular 
+Casa,Venta,Tarragona,160.64,1664117,19/01/07,Luisa,Regular 
+Casa,Venta,Barcelona,174.74,1879452,28/01/07,Marêa,Mala
+Casa,Alquiler,Tarragona,190.88,1763306,08/03/07,Joaquên,Regular 
+Casa,Alquiler,Lleida,169.98,1903343,14/01/07,Pedro,Buena
+Casa,Venta,Girona,155.86,1718220,30/03/07,Joaquên,Regular 
+Casa,Venta,Tarragona,199.33,1263918,09/04/07,Jes“s,Mala
+Casa,Venta,Lleida,165.2,1392003,03/05/07,Luisa,Regular 
+Casa,Venta,Lleida,167.77,1650609,23/03/07,Jes“s,Muy buena
+Casa,Alquiler,Girona,189.24,1904205,04/05/07,Pedro,Buena
+Casa,Alquiler,Barcelona,176.9,1657721,25/04/07,Luisa,Muy buena
+Casa,Venta,Girona,205.56,2034272,18/03/07,Carmen,Mala
+Casa,Alquiler,Tarragona,161.61,2171433,10/03/07,Jes“s,Mala
+Casa,Venta,Barcelona,176.29,1273283,03/04/07,Jes“s,Muy buena
+Casa,Alquiler,Girona,162.3,1655830,24/04/07,Joaquên,Mala
+Casa,Alquiler,Lleida,189.68,1703971,13/03/07,Pedro,Regular 
+Casa,Venta,Barcelona,172.46,1546528,26/03/07,Joaquên,Muy buena
+Casa,Alquiler,Barcelona,172.67,2089262,28/04/07,Joaquên,Buena
+Local,Venta,Girona,103.94,1109252,19/04/04,Pedro,Regular 
+Local,Venta,Tarragona,116.3,1068023,01/10/04,Carmen,Mala
+Local,Alquiler,Tarragona,99.43,1061967,22/06/04,Jes“s,Regular 
+Local,Alquiler,Tarragona,95.49,1007556,23/12/04,Pedro,Mala
+Local,Alquiler,Tarragona,68.67,653035,04/08/04,Carmen,Regular 
+Local,Alquiler,Barcelona,109.37,1268597,03/07/04,Marêa,Muy buena
+Local,Venta,Girona,95.63,822607,09/07/04,Pedro,Muy buena
+Local,Venta,Girona,100.6,748966,11/01/05,Jes“s,Muy buena
+Local,Alquiler,Tarragona,122.16,861863,13/11/04,Carmen,Regular 
+Local,Alquiler,Lleida,103.46,1089484,26/09/04,Marêa,Muy buena
+Local,Venta,Girona,97.64,1049476,09/07/04,Carmen,Mala
+Local,Alquiler,Girona,91.68,980736,21/12/04,Marêa,Buena
+Local,Alquiler,Barcelona,97.16,894519,28/06/04,Luisa,Regular 
+Local,Venta,Girona,115.48,952871,09/10/04,Marêa,Buena
+Local,Alquiler,Barcelona,116.78,1323436,03/06/04,Joaquên,Buena
+Local,Alquiler,Barcelona,79.7,665940,27/09/04,Jes“s,Regular 
+Local,Venta,Barcelona,105.41,1207977,23/05/04,Joaquên,Mala
+Local,Alquiler,Tarragona,108.44,1149583,23/06/04,Jes“s,Muy buena
+Local,Venta,Barcelona,107.99,928813,23/05/04,Luisa,Regular 
+Local,Alquiler,Lleida,96.74,1260674,22/09/04,Pedro,Regular 
+Local,Alquiler,Girona,114.91,870354,30/07/04,Pedro,Mala
+Local,Venta,Lleida,103.32,885466,04/09/04,Carmen,Buena
+Local,Venta,Lleida,106.17,1289267,05/10/04,Jes“s,Buena
+Local,Alquiler,Tarragona,113.8,1122210,22/09/04,Joaquên,Muy buena
+Local,Venta,Barcelona,109.28,1134987,30/05/04,Marêa,Mala
+Local,Venta,Lleida,109.1,1355283,01/08/04,Pedro,Regular 
+Local,Venta,Tarragona,92.81,669324,23/11/04,Carmen,Mala
+Local,Venta,Barcelona,74.75,809612,25/08/04,Carmen,Regular 
+Local,Venta,Tarragona,87.72,874709,26/10/04,Marêa,Regular 
+Local,Alquiler,Tarragona,106.62,1000650,25/08/04,Joaquên,Muy buena
+Local,Alquiler,Girona,123.99,1371227,02/09/04,Carmen,Regular 
+Local,Alquiler,Barcelona,82.11,808343,10/12/04,Marêa,Regular 
+Local,Venta,Girona,83.09,814506,09/03/05,Pedro,Buena
+Local,Alquiler,Girona,98.79,1152603,14/09/04,Pedro,Muy buena
+Local,Alquiler,Girona,123.02,870230,16/07/04,Luisa,Mala
+Local,Alquiler,Barcelona,108.79,858131,09/11/04,Luisa,Regular 
+Local,Venta,Girona,94.69,943428,04/12/04,Luisa,Regular 
+Local,Alquiler,Girona,90.46,921454,02/10/04,Marêa,Muy buena
+Local,Alquiler,Tarragona,87.54,1123556,29/08/04,Joaquên,Muy buena
+Local,Venta,Girona,104.58,1443234,12/11/04,Jes“s,Buena
+Local,Alquiler,Barcelona,105.76,979216,18/02/05,Pedro,Mala
+Local,Alquiler,Girona,88.81,1108145,05/10/04,Joaquên,Muy buena
+Local,Venta,Lleida,98.88,992301,26/07/04,Carmen,Muy buena
+Local,Venta,Lleida,95.31,810789,31/03/05,Luisa,Mala
+Local,Alquiler,Tarragona,102.11,997853,22/12/04,Marêa,Mala
+Local,Venta,Girona,96.72,1077055,08/04/05,Jes“s,Mala
+Local,Alquiler,Barcelona,117.71,982522,04/03/05,Pedro,Regular 
+Local,Alquiler,Lleida,87.2,969596,02/01/05,Jes“s,Buena
+Local,Alquiler,Girona,78.45,867407,20/11/04,Pedro,Mala
+Local,Alquiler,Barcelona,100.66,993016,13/02/05,Luisa,Buena
+Local,Alquiler,Girona,112.32,1246674,31/03/05,Luisa,Muy buena
+Local,Alquiler,Tarragona,83.98,970031,28/01/05,Marêa,Mala
+Local,Alquiler,Lleida,80.52,769334,21/12/04,Pedro,Regular 
+Local,Venta,Tarragona,82.77,884767,23/12/04,Pedro,Regular 
+Local,Venta,Barcelona,87.17,1059913,19/03/05,Luisa,Buena
+Local,Venta,Lleida,101.03,1164324,10/03/05,Luisa,Regular 
+Local,Venta,Lleida,94.98,926852,26/12/04,Luisa,Muy buena
+Local,Alquiler,Tarragona,97.77,770812,16/10/04,Marêa,Mala
+Local,Venta,Tarragona,105.07,1436843,10/04/05,Marêa,Muy buena
+Local,Venta,Lleida,109.86,1376904,27/03/05,Carmen,Buena
+Local,Alquiler,Barcelona,82.4,913855,17/04/05,Marêa,Muy buena
+Local,Venta,Tarragona,74.31,693481,20/01/05,Jes“s,Mala
+Local,Venta,Girona,76.79,907701,27/11/04,Luisa,Regular 
+Local,Venta,Girona,93.47,845258,14/10/04,Marêa,Muy buena
+Local,Alquiler,Barcelona,100.54,829299,16/12/04,Luisa,Regular 
+Local,Alquiler,Tarragona,107.9,1152418,15/12/04,Joaquên,Mala
+Local,Alquiler,Girona,101.4,1191171,25/11/04,Jes“s,Mala
+Local,Alquiler,Girona,101.65,975919,02/10/04,Pedro,Muy buena
+Local,Venta,Girona,99.35,1127812,08/04/05,Pedro,Muy buena
+Local,Alquiler,Tarragona,111.18,879501,03/10/04,Joaquên,Muy buena
+Local,Venta,Girona,83.37,967391,16/06/05,Pedro,Regular 
+Local,Venta,Tarragona,88.18,1010476,02/04/05,Jes“s,Muy buena
+Local,Venta,Lleida,96.4,937655,10/03/05,Jes“s,Muy buena
+Local,Venta,Barcelona,88.76,803400,22/11/04,Jes“s,Muy buena
+Local,Venta,Lleida,60.87,701102,12/06/05,Marêa,Mala
+Local,Alquiler,Lleida,87.2,884562,20/02/05,Carmen,Muy buena
+Local,Alquiler,Girona,111.73,1136670,30/04/05,Luisa,Regular 
+Local,Venta,Lleida,113.56,1161033,12/03/05,Jes“s,Muy buena
+Local,Venta,Girona,139.34,1888339,27/06/05,Carmen,Buena
+Local,Venta,Barcelona,84.02,613816,26/06/05,Carmen,Buena
+Local,Alquiler,Tarragona,102.59,840084,26/10/04,Pedro,Mala
+Local,Alquiler,Girona,97.33,719109,15/01/05,Marêa,Buena
+Local,Venta,Barcelona,108.42,1280446,08/01/05,Joaquên,Regular 
+Local,Venta,Lleida,123.23,1305561,11/05/05,Luisa,Muy buena
+Local,Alquiler,Tarragona,100.18,957189,07/03/05,Luisa,Regular 
+Local,Alquiler,Tarragona,84.54,936079,01/07/05,Carmen,Regular 
+Local,Alquiler,Lleida,98.11,953922,30/05/05,Carmen,Regular 
+Local,Venta,Tarragona,101.41,693770,23/03/05,Pedro,Mala
+Local,Alquiler,Tarragona,109.15,775166,08/03/05,Pedro,Mala
+Local,Alquiler,Lleida,78.9,807494,22/03/05,Joaquên,Mala
+Local,Alquiler,Lleida,117.99,879811,03/08/05,Luisa,Mala
+Local,Venta,Barcelona,99.88,998130,23/01/05,Joaquên,Muy buena
+Local,Venta,Lleida,91.61,889909,07/04/05,Marêa,Regular 
+Local,Venta,Tarragona,96.47,894250,30/07/05,Marêa,Mala
+Local,Alquiler,Girona,124.49,1277934,17/01/05,Jes“s,Mala
+Local,Venta,Girona,143.75,1585176,09/12/04,Marêa,Buena
+Local,Alquiler,Barcelona,88.08,938644,19/02/05,Joaquên,Regular 
+Local,Alquiler,Girona,113.29,841029,14/03/05,Luisa,Muy buena
+Local,Alquiler,Girona,111.42,1116648,20/04/05,Pedro,Mala
+Local,Alquiler,Tarragona,104.58,719845,16/05/05,Luisa,Regular 
+Local,Venta,Lleida,93.08,862802,02/05/05,Pedro,Mala
+Local,Alquiler,Barcelona,107.48,1219107,04/08/05,Carmen,Regular 
+Local,Alquiler,Girona,84.02,510281,20/01/05,Luisa,Mala
+Local,Alquiler,Tarragona,105.93,980762,23/02/05,Jes“s,Muy buena
+Local,Venta,Lleida,95.87,918520,08/09/05,Marêa,Mala
+Local,Venta,Lleida,90.07,1007337,16/09/05,Pedro,Muy buena
+Local,Venta,Barcelona,91.77,853631,05/08/05,Luisa,Buena
+Local,Venta,Lleida,89.61,777450,13/08/05,Luisa,Buena
+Local,Venta,Girona,116.66,1281684,05/01/05,Carmen,Buena
+Local,Alquiler,Girona,71.06,667134,26/01/05,Carmen,Mala
+Local,Alquiler,Tarragona,102.28,722089,05/06/05,Joaquên,Buena
+Local,Venta,Lleida,83.2,745572,25/07/05,Carmen,Buena
+Local,Alquiler,Barcelona,110.59,966425,17/08/05,Jes“s,Buena
+Local,Alquiler,Tarragona,111.56,1216548,14/04/05,Marêa,Buena
+Local,Venta,Tarragona,108.62,1199415,28/03/05,Carmen,Muy buena
+Local,Alquiler,Tarragona,91.1,1153527,19/02/05,Marêa,Muy buena
+Local,Alquiler,Tarragona,118.73,1229819,26/08/05,Jes“s,Regular 
+Local,Alquiler,Tarragona,97.03,735256,14/03/05,Marêa,Mala
+Local,Venta,Tarragona,96.29,1084513,01/09/05,Luisa,Mala
+Local,Venta,Lleida,84.84,696436,04/03/05,Joaquên,Regular 
+Local,Venta,Lleida,84.33,743710,23/04/05,Jes“s,Buena
+Local,Venta,Girona,118.29,973927,21/05/05,Joaquên,Muy buena
+Local,Venta,Lleida,103.4,937256,13/07/05,Joaquên,Muy buena
+Local,Alquiler,Tarragona,58.19,549834,28/02/05,Luisa,Muy buena
+Local,Alquiler,Barcelona,116.28,1240473,28/10/05,Joaquên,Mala
+Local,Venta,Tarragona,102.13,1247687,28/08/05,Luisa,Regular 
+Local,Venta,Barcelona,98.99,839613,14/06/05,Jes“s,Mala
+Local,Alquiler,Girona,111.21,931580,11/11/05,Joaquên,Mala
+Local,Alquiler,Barcelona,75.42,820812,08/11/05,Pedro,Regular 
+Local,Alquiler,Tarragona,87.92,820270,29/10/05,Carmen,Buena
+Local,Venta,Tarragona,107.07,854519,05/03/05,Luisa,Muy buena
+Local,Venta,Barcelona,82.77,879300,24/03/05,Pedro,Buena
+Local,Alquiler,Tarragona,103.88,839279,26/05/05,Carmen,Buena
+Local,Venta,Lleida,81.04,853866,28/05/05,Pedro,Regular 
+Local,Alquiler,Lleida,88.89,1182074,03/10/05,Jes“s,Mala
+Local,Alquiler,Barcelona,87,1083023,20/11/05,Pedro,Regular 
+Local,Venta,Girona,79.37,926432,30/11/05,Pedro,Muy buena
+Local,Venta,Girona,83.26,918654,20/12/05,Joaquên,Muy buena
+Local,Venta,Girona,81.92,810154,30/07/05,Luisa,Mala
+Local,Venta,Barcelona,97.07,1076682,07/06/05,Luisa,Muy buena
+Local,Alquiler,Barcelona,94.2,875498,03/12/05,Luisa,Muy buena
+Local,Alquiler,Barcelona,106.44,1073327,17/08/05,Jes“s,Buena
+Local,Venta,Lleida,125.57,1150451,31/08/05,Luisa,Buena
+Local,Venta,Barcelona,90.82,905902,16/09/05,Jes“s,Mala
+Local,Alquiler,Tarragona,102.68,1338536,26/08/05,Joaquên,Muy buena
+Local,Alquiler,Lleida,75.95,901960,30/10/05,Pedro,Mala
+Local,Venta,Tarragona,103.73,1041937,03/05/05,Pedro,Muy buena
+Local,Alquiler,Barcelona,72.49,759264,14/01/06,Marêa,Mala
+Local,Alquiler,Lleida,117.45,1274001,15/12/05,Joaquên,Regular 
+Local,Alquiler,Barcelona,94.16,1018146,22/10/05,Pedro,Mala
+Local,Venta,Barcelona,77.46,882125,03/01/06,Marêa,Muy buena
+Local,Venta,Girona,103.6,792133,03/08/05,Pedro,Mala
+Local,Venta,Lleida,89.5,895334,03/08/05,Marêa,Regular 
+Local,Venta,Lleida,90.73,909492,25/09/05,Pedro,Muy buena
+Local,Venta,Lleida,112.38,1184956,13/01/06,Jes“s,Muy buena
+Local,Alquiler,Barcelona,94.94,1082954,26/11/05,Pedro,Buena
+Local,Venta,Girona,111.2,1300285,28/07/05,Joaquên,Muy buena
+Local,Venta,Barcelona,123.71,1162862,25/06/05,Luisa,Mala
+Local,Venta,Barcelona,101.13,972223,05/02/06,Carmen,Mala
+Local,Venta,Girona,88.29,852178,02/12/05,Pedro,Regular 
+Local,Venta,Girona,78.23,802157,18/01/06,Marêa,Mala
+Local,Venta,Tarragona,98.49,1189087,23/10/05,Joaquên,Mala
+Local,Alquiler,Tarragona,112.97,1225496,06/08/05,Jes“s,Muy buena
+Local,Venta,Lleida,105.48,977865,04/09/05,Marêa,Regular 
+Local,Alquiler,Girona,114.05,1120358,09/10/05,Marêa,Mala
+Local,Venta,Barcelona,110.09,1440289,01/10/05,Luisa,Mala
+Local,Venta,Barcelona,96.98,1083602,25/07/05,Joaquên,Regular 
+Local,Venta,Lleida,142.93,1090129,18/10/05,Jes“s,Regular 
+Local,Alquiler,Barcelona,89.46,775252,27/11/05,Joaquên,Buena
+Local,Alquiler,Barcelona,114.92,1124489,17/02/06,Marêa,Regular 
+Local,Venta,Lleida,111.85,1222076,26/07/05,Jes“s,Mala
+Local,Alquiler,Tarragona,73.77,648030,17/12/05,Joaquên,Mala
+Local,Alquiler,Barcelona,102.08,1104967,28/06/05,Carmen,Buena
+Local,Alquiler,Girona,67.3,485956,31/10/05,Jes“s,Buena
+Local,Venta,Barcelona,103.54,924602,12/01/06,Joaquên,Regular 
+Local,Venta,Girona,102.88,1093027,09/04/06,Pedro,Mala
+Local,Alquiler,Tarragona,87.57,675706,05/02/06,Luisa,Regular 
+Local,Alquiler,Girona,118.95,1478248,21/07/05,Pedro,Buena
+Local,Venta,Lleida,106.89,929244,18/08/05,Joaquên,Regular 
+Local,Venta,Tarragona,99.83,1110016,15/08/05,Marêa,Buena
+Local,Alquiler,Girona,115.51,1197053,05/09/05,Marêa,Muy buena
+Local,Venta,Girona,51.7,499363,26/12/05,Luisa,Mala
+Local,Alquiler,Barcelona,99.49,1063927,16/12/05,Carmen,Buena
+Local,Venta,Barcelona,128.39,1304380,26/09/05,Pedro,Muy buena
+Local,Venta,Lleida,119.97,879178,06/02/06,Luisa,Mala
+Local,Venta,Tarragona,111.35,1117404,25/03/06,Carmen,Regular 
+Local,Venta,Tarragona,79.03,607522,06/10/05,Carmen,Muy buena
+Local,Venta,Barcelona,81.13,806136,21/12/05,Joaquên,Buena
+Local,Venta,Girona,109.46,1110242,21/09/05,Carmen,Regular 
+Local,Alquiler,Lleida,106.79,961195,12/08/05,Luisa,Regular 
+Local,Venta,Barcelona,74.72,735488,14/09/05,Joaquên,Mala
+Local,Alquiler,Barcelona,112.73,1052027,17/09/05,Luisa,Regular 
+Local,Alquiler,Lleida,82.72,697702,03/03/06,Marêa,Muy buena
+Local,Venta,Girona,91.35,811923,18/12/05,Jes“s,Mala
+Local,Alquiler,Tarragona,89.38,850382,24/09/05,Pedro,Buena
+Local,Alquiler,Girona,85.07,763935,12/11/05,Carmen,Buena
+Local,Alquiler,Girona,91.11,1027999,01/10/05,Carmen,Mala
+Local,Venta,Lleida,70.88,794584,30/10/05,Carmen,Mala
+Local,Venta,Lleida,111.37,1243920,24/01/06,Pedro,Regular 
+Local,Venta,Tarragona,83.7,911750,12/02/06,Carmen,Regular 
+Local,Venta,Lleida,119.21,1113782,20/10/05,Joaquên,Buena
+Local,Alquiler,Girona,100.47,849975,24/01/06,Jes“s,Buena
+Local,Alquiler,Barcelona,84.49,828122,13/04/06,Pedro,Muy buena
+Local,Venta,Lleida,113.3,1238880,12/03/06,Carmen,Regular 
+Local,Venta,Barcelona,103.34,1037225,15/04/06,Pedro,Muy buena
+Local,Venta,Girona,63.8,596672,17/10/05,Luisa,Buena
+Local,Alquiler,Barcelona,120.6,1320962,21/04/06,Marêa,Mala
+Local,Venta,Barcelona,128.36,1238783,10/01/06,Joaquên,Muy buena
+Local,Venta,Girona,83.93,915801,05/04/06,Jes“s,Buena
+Local,Alquiler,Girona,81.25,755484,14/05/06,Jes“s,Regular 
+Local,Venta,Girona,112.98,1239857,29/10/05,Carmen,Mala
+Local,Alquiler,Tarragona,94.39,1073388,16/02/06,Pedro,Buena
+Local,Alquiler,Lleida,132.24,1188442,08/11/05,Jes“s,Muy buena
+Local,Alquiler,Tarragona,81.02,774704,03/12/05,Joaquên,Mala
+Local,Venta,Barcelona,109.56,1377423,14/03/06,Marêa,Mala
+Local,Alquiler,Barcelona,92.47,693952,09/12/05,Pedro,Mala
+Local,Venta,Barcelona,93.26,981175,12/02/06,Marêa,Buena
+Local,Venta,Tarragona,82.63,1025318,27/11/05,Pedro,Buena
+Local,Venta,Barcelona,102.17,951466,21/11/05,Carmen,Mala
+Local,Alquiler,Barcelona,83.11,720323,22/05/06,Jes“s,Mala
+Local,Venta,Barcelona,89.75,845011,24/01/06,Marêa,Mala
+Local,Venta,Tarragona,100.57,1184738,08/08/06,Pedro,Muy buena
+Local,Venta,Lleida,130.71,1561283,14/03/06,Jes“s,Muy buena
+Local,Venta,Girona,119.34,1170517,14/05/06,Jes“s,Mala
+Local,Alquiler,Tarragona,93.35,721829,14/12/05,Pedro,Regular 
+Local,Venta,Barcelona,102.04,1107850,14/08/06,Joaquên,Muy buena
+Local,Venta,Barcelona,103.76,1319044,17/01/06,Carmen,Buena
+Local,Venta,Barcelona,78.1,539859,22/07/06,Carmen,Buena
+Local,Venta,Barcelona,69.7,764384,29/12/05,Carmen,Mala
+Local,Alquiler,Barcelona,133.2,1359869,17/05/06,Luisa,Muy buena
+Local,Alquiler,Girona,95.7,1066327,16/04/06,Pedro,Regular 
+Local,Venta,Tarragona,103.49,1177649,17/12/05,Marêa,Regular 
+Local,Venta,Girona,95.42,1174168,21/07/06,Luisa,Mala
+Local,Alquiler,Barcelona,97.77,862299,21/01/06,Joaquên,Buena
+Local,Alquiler,Girona,103.26,1205925,23/04/06,Marêa,Mala
+Local,Alquiler,Tarragona,116.24,1335351,28/02/06,Marêa,Regular 
+Local,Venta,Girona,93.58,926833,16/08/06,Pedro,Regular 
+Local,Venta,Girona,89.31,865571,08/07/06,Luisa,Mala
+Local,Alquiler,Barcelona,96.02,732346,14/05/06,Pedro,Mala
+Local,Venta,Girona,91.37,784939,11/08/06,Luisa,Buena
+Local,Venta,Barcelona,84.51,1007175,02/10/06,Pedro,Mala
+Local,Alquiler,Girona,105.23,1043910,15/02/06,Luisa,Muy buena
+Local,Alquiler,Barcelona,95.05,637009,02/06/06,Luisa,Buena
+Local,Alquiler,Girona,108.2,1066301,01/09/06,Marêa,Regular 
+Local,Venta,Lleida,89.33,1027865,08/06/06,Joaquên,Buena
+Local,Alquiler,Girona,73.07,697925,07/05/06,Marêa,Regular 
+Local,Alquiler,Girona,121.85,1291349,21/02/06,Marêa,Regular 
+Local,Alquiler,Barcelona,101.35,1162538,18/04/06,Marêa,Buena
+Local,Alquiler,Girona,125.71,1392106,12/09/06,Luisa,Mala
+Local,Venta,Lleida,86.36,918716,25/05/06,Luisa,Mala
+Local,Alquiler,Lleida,116.63,969528,18/04/06,Jes“s,Mala
+Local,Venta,Barcelona,111.07,874072,22/01/06,Luisa,Buena
+Local,Alquiler,Tarragona,103.13,858458,19/06/06,Luisa,Buena
+Local,Alquiler,Lleida,117.98,1611509,15/10/06,Carmen,Buena
+Local,Venta,Lleida,93,1004653,19/08/06,Marêa,Mala
+Local,Alquiler,Lleida,112.46,910980,07/09/06,Joaquên,Regular 
+Local,Venta,Girona,80.01,822563,18/08/06,Marêa,Muy buena
+Local,Alquiler,Barcelona,92.52,1074356,17/04/06,Marêa,Mala
+Local,Alquiler,Barcelona,72.67,667653,19/08/06,Marêa,Buena
+Local,Venta,Tarragona,86.29,850917,01/10/06,Carmen,Muy buena
+Local,Alquiler,Lleida,119.85,758039,26/05/06,Carmen,Buena
+Local,Alquiler,Tarragona,93.81,861439,01/11/06,Jes“s,Muy buena
+Local,Alquiler,Lleida,95.29,1214693,11/04/06,Joaquên,Mala
+Local,Venta,Tarragona,89.46,1315509,09/03/06,Joaquên,Regular 
+Local,Venta,Girona,91.39,843367,24/05/06,Marêa,Muy buena
+Local,Venta,Tarragona,78.15,1113876,10/05/06,Carmen,Muy buena
+Local,Alquiler,Girona,146.06,1234670,17/06/06,Jes“s,Regular 
+Local,Venta,Lleida,108.39,1002116,09/06/06,Luisa,Regular 
+Local,Venta,Barcelona,98.54,989567,04/07/06,Luisa,Muy buena
+Local,Venta,Lleida,125.2,1419391,05/10/06,Jes“s,Muy buena
+Local,Venta,Barcelona,101.48,1187754,15/12/06,Carmen,Muy buena
+Local,Alquiler,Tarragona,89.71,774267,18/05/06,Luisa,Regular 
+Local,Venta,Lleida,91.09,775984,18/12/06,Carmen,Regular 
+Local,Alquiler,Girona,103.82,1258084,06/05/06,Joaquên,Muy buena
+Local,Venta,Girona,91.47,1014240,13/04/06,Jes“s,Mala
+Local,Alquiler,Barcelona,76.69,818478,04/07/06,Pedro,Mala
+Local,Venta,Tarragona,94.2,1014479,17/04/06,Luisa,Muy buena
+Local,Venta,Girona,114.81,1230848,26/12/06,Luisa,Regular 
+Local,Alquiler,Lleida,86.99,747962,03/11/06,Luisa,Regular 
+Local,Venta,Barcelona,99.66,1242328,01/05/06,Marêa,Mala
+Local,Alquiler,Barcelona,101.51,1031315,29/06/06,Carmen,Mala
+Local,Venta,Barcelona,129.53,1317891,20/04/06,Pedro,Regular 
+Local,Alquiler,Barcelona,86.3,691151,19/04/06,Marêa,Mala
+Local,Venta,Tarragona,110.31,1134921,05/08/06,Pedro,Regular 
+Local,Alquiler,Lleida,112.65,1321228,21/05/06,Jes“s,Mala
+Local,Alquiler,Girona,116.17,1361172,17/10/06,Carmen,Muy buena
+Local,Alquiler,Lleida,79.8,713854,22/11/06,Luisa,Muy buena
+Local,Venta,Lleida,106.87,1028621,01/07/06,Joaquên,Buena
+Local,Venta,Girona,80.69,833657,15/05/06,Luisa,Muy buena
+Local,Alquiler,Girona,109.51,938455,26/06/06,Pedro,Mala
+Local,Venta,Lleida,88.74,693090,01/09/06,Marêa,Muy buena
+Local,Alquiler,Lleida,107.52,1157337,11/11/06,Jes“s,Buena
+Local,Alquiler,Tarragona,102.31,1024961,10/01/07,Carmen,Mala
+Local,Venta,Lleida,98.17,1000445,03/08/06,Luisa,Muy buena
+Local,Venta,Tarragona,119.04,1496609,24/04/06,Carmen,Mala
+Local,Venta,Barcelona,117.28,1260605,03/12/06,Jes“s,Regular 
+Local,Venta,Tarragona,99.63,950258,17/01/07,Joaquên,Mala
+Local,Venta,Lleida,65.93,782784,24/12/06,Pedro,Buena
+Local,Venta,Tarragona,114.21,1080018,02/02/07,Joaquên,Buena
+Local,Alquiler,Girona,92.17,805034,27/10/06,Luisa,Mala
+Local,Venta,Girona,96.87,1038568,12/01/07,Pedro,Mala
+Local,Alquiler,Tarragona,76.5,786362,06/06/06,Carmen,Buena
+Local,Venta,Barcelona,117.87,1067826,17/01/07,Pedro,Mala
+Local,Alquiler,Lleida,100.11,975340,29/08/06,Pedro,Muy buena
+Local,Venta,Lleida,115.27,1272375,21/10/06,Marêa,Mala
+Local,Venta,Barcelona,90.63,779324,18/06/06,Jes“s,Muy buena
+Local,Venta,Tarragona,139.3,1480400,28/10/06,Marêa,Buena
+Local,Alquiler,Lleida,93.06,1008500,14/02/07,Pedro,Buena
+Local,Alquiler,Girona,114.71,1051599,22/12/06,Marêa,Muy buena
+Local,Alquiler,Tarragona,87.51,710671,14/01/07,Joaquên,Buena
+Local,Venta,Barcelona,108.01,1007033,21/08/06,Jes“s,Buena
+Local,Alquiler,Girona,120.66,1061677,22/06/06,Jes“s,Regular 
+Local,Alquiler,Tarragona,80.73,890329,22/09/06,Carmen,Mala
+Local,Alquiler,Girona,107.31,1073808,20/09/06,Marêa,Buena
+Local,Venta,Lleida,87.63,954764,07/10/06,Joaquên,Regular 
+Local,Venta,Tarragona,88.42,845377,12/11/06,Carmen,Regular 
+Local,Venta,Barcelona,109.63,1192903,08/11/06,Jes“s,Muy buena
+Local,Venta,Barcelona,85.84,807889,26/10/06,Marêa,Regular 
+Local,Alquiler,Tarragona,93.71,863349,08/09/06,Marêa,Buena
+Local,Alquiler,Lleida,105.15,939446,29/08/06,Carmen,Mala
+Local,Alquiler,Lleida,92.97,992439,08/11/06,Luisa,Mala
+Local,Venta,Tarragona,86.48,753038,29/01/07,Luisa,Regular 
+Local,Alquiler,Barcelona,95.72,1155730,04/01/07,Marêa,Mala
+Local,Venta,Tarragona,88.44,723263,08/12/06,Pedro,Mala
+Local,Venta,Barcelona,95.95,879977,12/09/06,Pedro,Regular 
+Local,Venta,Lleida,93.94,906568,01/02/07,Carmen,Regular 
+Local,Venta,Tarragona,83.49,923256,16/11/06,Marêa,Regular 
+Local,Venta,Barcelona,86.85,709612,14/01/07,Luisa,Buena
+Local,Alquiler,Tarragona,85.4,949568,18/11/06,Luisa,Muy buena
+Local,Venta,Tarragona,68.45,639849,12/10/06,Marêa,Buena
+Local,Alquiler,Girona,74.39,732497,04/10/06,Marêa,Buena
+Local,Venta,Girona,127.61,1481331,30/04/07,Marêa,Regular 
+Local,Venta,Barcelona,97.43,859346,01/05/07,Jes“s,Muy buena
+Local,Alquiler,Girona,81.94,750126,08/03/07,Luisa,Regular 
+Local,Venta,Barcelona,138.23,1506374,05/11/06,Joaquên,Mala
+Local,Venta,Girona,103.77,1124677,26/01/07,Marêa,Mala
+Local,Venta,Barcelona,98.78,1016849,27/08/06,Jes“s,Mala
+Local,Alquiler,Girona,76.3,859753,01/03/07,Joaquên,Muy buena
+Local,Venta,Girona,99.27,902859,15/01/07,Marêa,Mala
+Local,Alquiler,Barcelona,113.13,927973,27/08/06,Carmen,Mala
+Local,Alquiler,Lleida,148.3,1338306,05/01/07,Jes“s,Mala
+Local,Alquiler,Tarragona,99.2,1333983,20/03/07,Luisa,Mala
+Local,Venta,Tarragona,106.17,988526,27/12/06,Pedro,Mala
+Local,Venta,Lleida,98.45,873700,08/12/06,Carmen,Muy buena
+Local,Alquiler,Tarragona,123.18,1409699,30/04/07,Pedro,Muy buena
+Local,Alquiler,Lleida,105.96,1049166,03/12/06,Luisa,Mala
+Local,Venta,Girona,85.96,843406,07/01/07,Joaquên,Regular 
+Local,Venta,Girona,108.33,1078147,17/04/07,Joaquên,Mala
+Local,Alquiler,Tarragona,69.28,887374,10/02/07,Pedro,Mala
+Local,Alquiler,Girona,88.04,976352,17/10/06,Marêa,Regular 
+Local,Alquiler,Lleida,84.39,658917,11/12/06,Marêa,Muy buena
+Local,Alquiler,Girona,106.61,977642,28/12/06,Jes“s,Mala
+Local,Alquiler,Girona,58.62,447587,02/02/07,Jes“s,Regular 
+Local,Alquiler,Girona,84.54,847694,10/04/07,Luisa,Buena
+Local,Venta,Girona,90.4,852103,24/04/07,Jes“s,Muy buena
+Local,Alquiler,Barcelona,111.85,1073714,13/04/07,Joaquên,Mala
+Local,Alquiler,Girona,103.59,1065952,15/01/07,Carmen,Regular 
+Local,Venta,Lleida,107.56,1065603,08/03/07,Marêa,Muy buena
+Local,Alquiler,Barcelona,92.38,1037257,30/12/06,Marêa,Regular 
+Local,Venta,Tarragona,111.97,1009020,06/12/06,Pedro,Mala
+Local,Alquiler,Barcelona,110.24,1212299,25/12/06,Pedro,Muy buena
+Local,Venta,Lleida,63.41,704131,21/12/06,Carmen,Muy buena
+Local,Venta,Barcelona,84.26,786572,27/04/07,Luisa,Muy buena
+Local,Venta,Tarragona,98.39,1180042,31/03/07,Luisa,Buena
+Local,Venta,Barcelona,100.62,999276,28/12/06,Luisa,Buena
+Local,Alquiler,Barcelona,93.71,729634,28/02/07,Jes“s,Muy buena
+Local,Venta,Tarragona,98.96,833459,04/03/07,Carmen,Regular 
+Local,Venta,Girona,134.36,1387476,28/12/06,Pedro,Muy buena
+Local,Alquiler,Girona,72.23,623577,04/05/07,Marêa,Mala
+Local,Venta,Tarragona,102.02,977357,14/04/07,Luisa,Regular 
+Local,Venta,Lleida,89.83,705096,11/02/07,Pedro,Mala
+Local,Venta,Girona,89.67,968835,17/04/07,Luisa,Buena
+Local,Alquiler,Tarragona,121,1160254,17/03/07,Pedro,Muy buena
+Local,Venta,Lleida,106.72,939744,03/05/07,Jes“s,Regular 
+Local,Alquiler,Tarragona,91.83,1028059,18/03/07,Jes“s,Muy buena
+Local,Venta,Girona,106.81,1019395,25/04/07,Pedro,Muy buena
+Local,Alquiler,Girona,105.51,1233659,17/02/07,Carmen,Regular 
+Local,Alquiler,Lleida,95.1,928155,15/03/07,Joaquên,Regular 
+Local,Venta,Barcelona,115.99,1202425,08/03/07,Marêa,Muy buena
+Local,Alquiler,Tarragona,86.02,725638,18/04/07,Jes“s,Buena
+Local,Alquiler,Barcelona,74.45,583172,31/03/07,Joaquên,Buena
+Local,Venta,Lleida,70.55,473804,17/04/07,Carmen,Buena
